@@ -8,7 +8,7 @@ Human Rights Watch collated the data in this chart from seven sources: Human Rig
 
 
 
-License
+## License
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
